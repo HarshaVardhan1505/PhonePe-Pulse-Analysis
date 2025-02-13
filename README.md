@@ -5,9 +5,13 @@ This project analyzes insurance transactions and user engagement trends on Phone
 
 ## Business Problem Statement
 With PhonePe expanding its financial services, particularly in insurance, it's essential to:
-- Analyze geographical performance (state-wise and district-wise).
-- Identify trends across various brands.
-- Examine user engagement to understand regions with low app activity despite high registration numbers.
+- Brand-wise Transaction Analysis Dashboard (This dashboard helps in analyzing brand-wise transaction trends for PhonePe services. 
+         "The objective is to identify top-performing brands, examine market penetration, and "
+         "extract actionable insights for brand promotion and strategic decision-making.)
+- District-wise Transaction Analysis Dashboard(-This dashboard focuses on analyzing transaction trends across different districts "
+         -"The goal is to uncover which districts contribute the most to transaction volumes and amounts, and how this evolves over time."
+- PhonePe Insurance Transaction Interactive Dashboard
+- User Engagement and App Opens Analysis Dashboard("The key challenge is identifying districts with high user registrations but low app engagement, allowing targeted strategies to boost app usage. Understanding the correlation between registered users and app opens is crucial for improving marketing campaigns and user experience.")
 
 These insights are valuable in developing targeted strategies for market penetration, revenue growth, and user re-engagement.
 
